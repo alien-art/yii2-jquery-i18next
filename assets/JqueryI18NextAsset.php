@@ -16,7 +16,7 @@ class JqueryI18NextAsset extends AssetBundle
     public $path = '';
     public $css = [];
     public $js = [
-        'jquery-i18next.min'
+        'jquery-i18next.min.js'
     ];
     public $depends = [
         'yii\web\YiiAsset',
