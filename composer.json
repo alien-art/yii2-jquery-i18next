@@ -1,0 +1,23 @@
+{
+    "name": "alien-art/yii2-jquery-i18next",
+    "description": "Assets for use jquery-i18next",
+    "type": "yii2-jquery-i18next",
+    "keywords": ["yii2","i18Next.js", "jquery-i18next.js"],
+    "authors": [
+        {
+        "name": "Alien-art",
+        "email": "alien@alien-art.ru"
+        }
+    ],
+    "require": {
+        "php": ">=5.4",
+        "yiisoft/yii2": "*",
+        "bower-asset/i18next": "@stable",
+        "bower-asset/jquery-i18next": "@stable"
+    },
+    "autoload": {
+        "psr-4": {
+            "alien\\jquery_i18next\\": ""
+        }
+    }
+}
