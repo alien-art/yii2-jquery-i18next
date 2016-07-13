@@ -13,6 +13,7 @@
         "php": ">=5.4",
         "yiisoft/yii2": "*",
         "bower-asset/i18next": "@stable",
+        "bower-asset/i18next-xhr-backend": "@stable",
         "bower-asset/jquery-i18next": "@stable"
     },
     "autoload": {
