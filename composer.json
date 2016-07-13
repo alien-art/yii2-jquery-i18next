@@ -1,7 +1,7 @@
 {
     "name": "alien/yii2-jquery-i18next",
     "description": "Assets for use jquery-i18next",
-    "type": "yii2-jquery-i18next",
+    "type": "yii2-extension",
     "keywords": ["yii2","i18Next.js", "jquery-i18next.js"],
     "authors": [
         {
