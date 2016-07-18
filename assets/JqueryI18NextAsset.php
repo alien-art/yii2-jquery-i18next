@@ -20,6 +20,7 @@ class JqueryI18NextAsset extends AssetBundle
     ];
     public $depends = [
         'yii\web\YiiAsset',
+        'yii\web\JqueryAsset',
         'alien\jquery_i18next\assets\I18nextXHRBackendAsset',
         'alien\jquery_i18next\assets\I18NextAsset',
     ];
